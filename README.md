@@ -1,3 +1,14 @@
+# VIRGINIA - README
+
+Go through the [gerry00_test_one.ipynb](gerry00_test_one.ipynb) Jupyter notebook.  Results are saved in [outputs/results.xlsx](outputs/results.xlsx).
+
+---
+---
+---
+---
+---
+---
+
 # REopt API Analysis using Python
 
 ## Updated for Multi-Scenario and Multi-Tariff Inputs
