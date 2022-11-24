@@ -17,3 +17,9 @@ electric_rates/*
 *.ipynb
 !single_scenario_example.ipynb
 !multi_scenario_example.ipynb
+!gerry00_test_one.ipynb
+!outputs/posts
+!outputs/results
+!inputs/VA_inputs2.json
+!outputs/UtilityChoices.json
+!outputs/*.xlsx
