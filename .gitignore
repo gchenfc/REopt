@@ -24,3 +24,6 @@ electric_rates/*
 !outputs/UtilityChoices.json
 !outputs/*.xlsx
 API_KEYS.py
+!outputs/results_human_readable
+!gerry01_json_shortener.ipynb
+!outputs/all_urdb_options.json
